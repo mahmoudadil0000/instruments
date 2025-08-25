@@ -1,0 +1,6 @@
+# lower root forceps& ملقط الجذور السفلية
+
+group: lower forceps
+الصورة: 00050.png, 00049.png
+المادة المرتبطة: oral surgery (https://www.notion.so/oral-surgery-248252c80c4a805fae3dcd383d124f68?pvs=21)
+الملاحظات: احد اداوت القلع الوظيفة لاحقا
